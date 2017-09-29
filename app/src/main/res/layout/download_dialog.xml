@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="270dp"
+    android:layout_height="130dp"
+    android:layout_gravity="center"
+    android:background="@drawable/white_yuanjiao_ten"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingTop="25dp"
+        android:text="正在下载..."
+        android:textColor="#323232"
+        android:textSize="18sp" />
+
+    <com.test.gridviewchoicephoto.FlikerProgressBar xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        app:loadingColor="#40c4ff"
+        app:radius="15dp"
+        app:stopColor="#ff9800"
+        app:textSize="12sp" />
+</LinearLayout>

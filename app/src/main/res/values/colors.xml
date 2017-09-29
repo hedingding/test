@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="province_line_border">#C7C7C7</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="green">#00CC00</color>
+
+
+    <color name="navpage">#FFE1E8EB</color>
+
+
+    <color name="background">#F9F7F8</color>
+    <color name="background_gray1">#EBEBEB</color>
+    <color name="background_gray2">#E6E6E6</color>
+    <color name="background_gray3">#D4D4D4</color>
+    <color name="background_gray4">#EFEFF4</color>
+    <color name="line">#DDDDDD</color>
+    <color name="line_btn">#BBBBBB</color>
+    <color name="text_gray1">#777777</color>
+    <color name="text_gray2">#767676</color>
+    <color name="text_blue1">#1173CB</color>
+    <color name="text_blue2">#1173CA</color>
+    <color name="panel_black">#25272A</color>
+    <color name="black">#000000</color>
+    <color name="btn_red">#D63F41</color>
+    <color name="btn_red_hover">#E8484B</color>
+    <color name="btn_blue">#0F73CB</color>
+    <color name="btn_blue_hover">#1E86E4</color>
+    <color name="btn_text">#FFFFFF</color>
+    <color name="btn_text_hover">#CCFFFFFF</color>
+    <!--蒙版-->
+    <color name="colorMask">#66000000</color>
+
+
+</resources>

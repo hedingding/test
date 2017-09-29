@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.test.gridviewchoicephoto.JcjgtjImageItem
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="58dp"
+        android:layout_height="63dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="5dp">
+
+        <ImageView
+            android:id="@+id/wxygl_jcjgtj_itemimage"
+            android:layout_width="53dp"
+            android:layout_height="53dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:background="@drawable/edittextbk"
+            android:padding="1dp"
+            android:scaleType="fitCenter"/>
+
+
+        <RelativeLayout
+            android:id="@+id/wxygl_jcjgtj_itemimagedelete"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true">
+
+
+            <ImageView
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:scaleType="fitCenter"
+                android:src="@mipmap/reddelete"/>
+
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</com.test.gridviewchoicephoto.JcjgtjImageItem>
